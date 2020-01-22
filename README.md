@@ -8,7 +8,6 @@ vue-music
 组件划分
 ---
 **基础组件**
-
 - confirm 确认对话框组件
 - listview 通讯录列表组件
 - loading 加载态组件
