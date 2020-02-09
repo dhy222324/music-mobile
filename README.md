@@ -32,6 +32,7 @@ vue-music
 - music-list 歌曲列表页面组件
 - player 播放器内核组件
 - playlist 播放列表组件
+
 - rank 排行榜页面组件
 - recommend 推荐页面组件
 - search 搜索页面组件
