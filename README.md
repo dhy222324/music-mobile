@@ -7,6 +7,7 @@ vue-music
 
 组件划分
 ---
+
 **基础组件**
 - confirm 确认对话框组件
 - listview 通讯录列表组件
@@ -23,7 +24,6 @@ vue-music
 - song-list 歌曲列表组件
 
 **业务组件**
-
 
 - add-song 添加歌曲列表到组件
 - disc 歌单详情页组件
