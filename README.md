@@ -48,7 +48,6 @@ vue-music
 - user-center 用户中心也组件
 
 
-
 技术栈
 ---
 
@@ -107,6 +106,7 @@ screenshot
 ![](shotscreen/search.png)
 ![](shotscreen/player.png)
 ![](shotscreen/song.png)
+
 
 
 License
