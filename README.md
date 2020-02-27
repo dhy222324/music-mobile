@@ -8,6 +8,7 @@ vue-music
 ![](shotscreen/music-vue.png)
 
 组件划分
+
 ---
 
 **基础组件**
