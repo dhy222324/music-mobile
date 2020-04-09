@@ -36,7 +36,6 @@ vue-music
 - playlist 播放列表组件
 
 
-
 - rank 排行榜页面组件
 - recommend 推荐页面组件
 - search 搜索页面组件
