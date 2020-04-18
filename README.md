@@ -3,7 +3,6 @@ vue-music
 > 使用vue2.0构建音乐播放器
 
 项目组成
-
 ---
 ![](shotscreen/music-vue.png)
 
@@ -67,8 +66,6 @@ vue-music
 
 项目结构
 ---
-
-
 
 使用方法
 ---
