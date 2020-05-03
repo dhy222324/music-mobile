@@ -107,4 +107,3 @@ License
 ---
 
 © 2017 A poetries's [Ideas](https://github.com/poetries/ideas).
-
