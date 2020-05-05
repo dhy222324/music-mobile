@@ -99,7 +99,6 @@ screenshot
 ![](shotscreen/player.png)
 ![](shotscreen/song.png)
 
-
 License
 ---
 
