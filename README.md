@@ -44,7 +44,6 @@ vue-music
 - top-list 排行榜详情页组件
 - user-center 用户中心也组件
 
-
 技术栈
 ---
 
