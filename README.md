@@ -5,7 +5,6 @@ vue-music
 项目组成
 ---
 ![](shotscreen/music-vue.png)
-
 组件划分
 ---
 **基础组件**
