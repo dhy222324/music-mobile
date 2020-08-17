@@ -55,8 +55,6 @@ vue-music
 - 样式：stylus
 - 规范：eslint
 
-
-
 项目结构
 ---
 
