@@ -88,7 +88,6 @@ screenshot
 
 - 搜索、播放页面
 
-
 ![](shotscreen/search.png)
 ![](shotscreen/player.png)
 ![](shotscreen/song.png)
