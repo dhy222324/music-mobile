@@ -5,4 +5,3 @@ vue-music
 项目组成
 ---
 ![](shotscreen/music
-123456734444444444444
